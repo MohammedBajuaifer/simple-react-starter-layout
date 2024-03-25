@@ -1,0 +1,5 @@
+.navlink {
+    &:hover {
+        background-color: #256a741a;
+    }
+}
